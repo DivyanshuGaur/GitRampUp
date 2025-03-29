@@ -6,4 +6,8 @@ public class Main {
         System.out.println("yeah buddy - rebase!");
         System.out.println("yeah buddy - main merge from service1 in pqr branch");
     }
+    public void func1(){
+        System.out.println("Committing func1 in service 1");
+    }
+
 }
