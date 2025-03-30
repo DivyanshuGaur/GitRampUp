@@ -14,5 +14,10 @@ public class Main {
         System.out.println("added fun3 ");
     }
 
+    public void funcmno(){
+        System.out.println("Patch - test from feat-abc to feat-xyz : Service 2 ");
+    }
+
+
 
 }
