@@ -6,4 +6,11 @@ public class Main {
         System.out.println("yeah buddy - rebase!");
         System.out.println("yeah buddy - main merge from service1 in pqr branch");
     }
+    public void cherryPickThisInXYZ(){
+        System.out.println("Cherrry pick this code in feat-xyz : from feat-abc");
+    }
+
+
+
+
 }
