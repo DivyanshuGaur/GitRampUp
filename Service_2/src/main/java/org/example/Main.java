@@ -10,5 +10,9 @@ public class Main {
     public void func2(){
         System.out.println("Patch - test from feat-abc to feat-xyz : Service 2 ");
     }
+    public void func3(){
+        System.out.println("added fun3 ");
+    }
+
 
 }
