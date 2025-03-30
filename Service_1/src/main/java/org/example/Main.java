@@ -10,4 +10,9 @@ public class Main {
         System.out.println("Committing func1 in service 1");
     }
 
+    public void cherryPickThisInXYZ(){
+        System.out.println("Cherrry pick this code in feat-xyz : from feat-abc");
+    }
+
+
 }
