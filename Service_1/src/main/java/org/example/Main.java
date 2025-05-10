@@ -11,7 +11,7 @@ public class Main {
     }
 
     public void cherryPickThisInXYZ(){
-        System.out.println("I have Cherrry picked  this code in feat-xyz : from feat-abc");
+        System.out.println("Cherrry pick this code in feat-xyz : from feat-abc");
     }
 
     public void newrebas(){
