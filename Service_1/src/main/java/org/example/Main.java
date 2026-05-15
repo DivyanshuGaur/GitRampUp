@@ -21,5 +21,9 @@ public class Main {
     public void syncwithrebsae(){
 
     }
+    public void newrampup(){
+        
+    }
+
 
 }
