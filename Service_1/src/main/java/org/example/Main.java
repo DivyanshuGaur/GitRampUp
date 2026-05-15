@@ -25,5 +25,7 @@ public class Main {
         
     }
 
-
+    public void addmethod(){
+        
+    }
 }
