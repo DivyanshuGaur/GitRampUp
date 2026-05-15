@@ -14,5 +14,16 @@ public class Main {
         System.out.println("Cherrry pick this code in feat-xyz : from feat-abc");
     }
 
+    public void newrebas(){
+        System.out.println("");
+    }
+
+    public void syncwithrebsae(){
+
+    }
+    public void newrampup(){
+        
+    }
+
 
 }
